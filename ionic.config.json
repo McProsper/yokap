@@ -1,0 +1,8 @@
+{
+  "name": "Yokap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "076d90bc"
+}
